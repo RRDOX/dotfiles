@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = rayan.rungoo@gmail.com
+	email = gh api rayan.rungoo@gmail.com
 	name = rayandev rungoo
